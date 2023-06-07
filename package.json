@@ -1,0 +1,16 @@
+{
+  "name": "terminal",
+  "version": "1.0.0",
+  "description": "console.log com super poderes",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "console",
+    "log",
+    "level"
+  ],
+  "author": "the seventeen tails",
+  "license": "MIT"
+}
